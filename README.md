@@ -53,7 +53,7 @@ Connect With Me:
    <a href="https://instagram.com/manju__s_g_15?igshid=Yzg5MTU1MDY=" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-   <a href="https://t.me/yashu6675" target="blank" rel="noreferrer">
+   <a href="https://t.me/manju767623" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
